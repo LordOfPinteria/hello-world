@@ -1,2 +1,3 @@
 # hello-world
-github tutorial
+GitHub tutorial
+This is a testing of a GitHub branch
